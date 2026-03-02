@@ -114,7 +114,7 @@
 &kp LBKT   &kp Q  &kp W          &kp E         &kp R          &kp T          &kp Y        &kp U            &kp I         &kp O          &kp P      &kp RBKT
 &kp GRAVE  &kp A  &mt_h LGUI S   &mt_h LALT D  &mt_h LCTRL F  &kp G          &kp H        &mt_h RCTRL J    &mt_h RALT K  &mt_h RGUI L   &kp SEMI   &kp SQT
 &kp BSLH   &kp Z  &kp X          &kp C         &kp V          &kp B          &kp N        &kp M            &kp COMMA     &kp DOT        &kp FSLH   &kp PIPE
-&none      &none  &lt WIN EQUAL  &lt LWR TAB   &mt LSHFT SPC  &lt RSE ENTER  &lt RSE ESC  &mt RSHFT BSPC   &lt LWR DEL   &lt WIN MINUS  &none      &none
+&none      &none  &lt WIN EQUAL  &lt RSE TAB   &mt LSHFT SPC  &lt LWR ENTER  &lt LWR ESC  &mt RSHFT BSPC   &lt RSE DEL   &lt WIN MINUS  &none      &none
             >;
         };
 
@@ -124,7 +124,7 @@
 &trans     &kp F1    &kp F2         &kp F3           &kp F4            &kp F5     &kp F6     &kp F7            &kp F8            &kp F9           &kp F10   &kp F11
 &trans     &kp EXCL  &mt_h LGUI AT  &mt_h LALT HASH  &mt_h LCTRL DLLR  &kp PRCNT  &kp CARET  &mt_h RCTRL AMPS  &mt_h RALT ASTRK  &mt_h RGUI LPAR  &kp RPAR  &kp F12
 &kp EQUAL  &kp N1    &kp N2         &kp N3           &kp N4            &kp N5     &kp N6     &kp N7            &kp N8            &kp N9           &kp N0    &kp MINUS
-&trans     &trans    &trans         &trans           &trans            &mo ADJ    &mo ADJ    &trans            &trans            &trans           &trans    &trans
+&trans     &trans    &trans         &mo ADJ          &trans            &trans     &trans    &trans             &mo ADJ           &trans           &trans    &trans
             >;
         };
 
@@ -134,7 +134,7 @@
 &kp KP_NLCK  &kp KP_MULTIPLY  &kp KP_N7         &kp KP_N8         &kp KP_N9          &kp KP_PLUS   &kp CAPS  &kp HOME  &kp PSCRN        &kp PG_UP  &kp PIPE    &kp UNDER
 &kp TAB      &kp KP_DIVIDE    &mt_h LGUI KP_N4  &mt_h LALT KP_N5  &mt_h LCTRL KP_N6  &kp KP_MINUS  &kp LEFT  &kp DOWN  &kp UP           &kp RIGHT  &kp INSERT  &kp RET
 &trans       &kp KP_N0        &kp KP_N1         &kp KP_N2         &kp KP_N3          &kp KP_DOT    &kp SLCK  &kp END   &kp PAUSE_BREAK  &kp PG_DN  &kp BSLH    &kp BSPC
-&trans       &trans           &trans            &mo ADJ           &trans             &trans        &trans    &trans    &mo ADJ          &trans     &trans      &trans
+&trans       &trans           &trans            &trans            &trans             &mo ADJ       &mo ADJ   &trans    &trans           &trans     &trans      &trans
             >;
         };
 
