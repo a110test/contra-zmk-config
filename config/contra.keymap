@@ -77,6 +77,7 @@
 / {
 	chosen {
 		zmk,underglow = &led_strip;
+		zmk,studio-rpc-uart = &cdc_acm_uart;
 	};
 };
 
